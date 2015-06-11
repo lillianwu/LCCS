@@ -15,7 +15,7 @@
 		<input type="text" name="topic" id="topic" placeholder="TOPIC" required>
 		<label>內容</label>
 		<textarea id="content" cols="86" rows ="20" name="content"></textarea>
-		<button type="submit" class="btn btn-primary">登入</button>
+		<button type="submit" class="btn btn-primary">新增</button>
 	</form>
 </body>
 
