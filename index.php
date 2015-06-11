@@ -10,7 +10,7 @@
 </head>
 
 <body>
-	<form action="./check_logout.php"  method="post" >	
+	<form action="./check_logout.php" method="post" >	
 		<button type="submit" class="btn btn-primary">登出</button>
 	</form>
 </body>

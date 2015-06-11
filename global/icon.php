@@ -1,4 +1,9 @@
 <?php
+define('HOST','127.0.0.1');
+define('USER','root');
+define('PASS','qqq111');
+define('DB','group5');
+
 /*define('HOST','');
 define('USER','group5');
 define('PASS','');
