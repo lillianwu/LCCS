@@ -11,6 +11,7 @@
 
 <body>
 	<form action="./check_logout.php" method="post" >	
+		<a href="./news.php">公告</a>
 		<button type="submit" class="btn btn-primary">登出</button>
 	</form>
 </body>
